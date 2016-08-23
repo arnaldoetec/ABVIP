@@ -1,0 +1,9 @@
+Z:\GitHub\teacherhidalgo\ABVIP\ABVIP\bin\Debug\ABVIP.exe.config
+Z:\GitHub\teacherhidalgo\ABVIP\ABVIP\bin\Debug\ABVIP.exe
+Z:\GitHub\teacherhidalgo\ABVIP\ABVIP\bin\Debug\ABVIP.pdb
+Z:\GitHub\teacherhidalgo\ABVIP\ABVIP\obj\Debug\ABVIP.csprojResolveAssemblyReference.cache
+Z:\GitHub\teacherhidalgo\ABVIP\ABVIP\obj\Debug\ABVIP.Form1.resources
+Z:\GitHub\teacherhidalgo\ABVIP\ABVIP\obj\Debug\ABVIP.Properties.Resources.resources
+Z:\GitHub\teacherhidalgo\ABVIP\ABVIP\obj\Debug\ABVIP.csproj.GenerateResource.Cache
+Z:\GitHub\teacherhidalgo\ABVIP\ABVIP\obj\Debug\ABVIP.exe
+Z:\GitHub\teacherhidalgo\ABVIP\ABVIP\obj\Debug\ABVIP.pdb
